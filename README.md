@@ -1,8 +1,9 @@
 # git-exercise-w01
 
-VS#1 Hi, this is my first message!
-VS#2 Hi, this is my second message!
+VS1 Hi, this is my first message!
+VS2 Hi, this is my second message!
+VS3 Hi, I keep adding stuff
 
 ## Subheading
-GH#1 Hi, this was done on *GitHub*!
-GH#2 Hi, this was also done on GitHub!
+GH1 Hi, this was done on *GitHub*!
+GH2 Hi, this was also done on GitHub!
