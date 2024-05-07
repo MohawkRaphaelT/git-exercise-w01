@@ -5,3 +5,4 @@ VS#2 Hi, this is my second message!
 
 ## Subheading
 GH#1 Hi, this was done on *GitHub*!
+GH#2 Hi, this was also done on GitHub!
