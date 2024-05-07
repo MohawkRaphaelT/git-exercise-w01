@@ -7,4 +7,3 @@ VS3 Hi, I keep adding stuff
 ## Subheading
 GH1 Hi, this was done on *GitHub*!
 GH2 Hi, this was also done on GitHub!
-GH3 Okay, I get it.
